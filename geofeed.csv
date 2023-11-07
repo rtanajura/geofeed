@@ -11865,7 +11865,7 @@
 191.191.157.0/24,BR,BR-GO,Senador Canedo,
 191.191.158.0/24,BR,BR-GO,Senador Canedo,
 # VTR
-189.4.7.27/32BR,BR-PR,Colombo,
+189.4.7.27/32,BR,BR-PR,Colombo,
 189.55.196.211/32,BR,BR-SP,Santo Andre,
 189.55.196.213/32,BR,BR-SP,Santo Andre,
 189.63.0.123/32,BR,BR-GO,Goiania,
