@@ -18611,6 +18611,7 @@
 2804:14d:ed31:1000::/64,BR,BR-BA,Porto Seguro,
 2804:14d:ed32:1000::/64,BR,BR-BA,Porto Seguro,
 2804:14d:ed33:1000::/64,BR,BR-BA,Porto Seguro,
+# MG
 201.80.46.128/25,BR,BR-MG,Pedro Leopoldo,
 201.80.81.0/25,BR,BR-MG,Ponte Nova,
 201.80.91.128/25,BR,BR-MG,Patrocínio,
@@ -18650,3 +18651,11 @@
 201.80.88.128/25,BR,BR-MG,Muriaé,
 201.80.3.0/24,BR,BR-MG,Belo Horizonte,
 201.80.85.0/24,BR,BR-MG,Governador Valadares,
+# João Pessoa
+181.221.240.0/20,BR,BR-PB,João Pessoa,
+ 181.221.240.0/22,BR,BR-PB,João Pessoa,
+181.221.244.0/24,BR,BR-PB,João Pessoa,
+181.221.245.0/24,BR,BR-PB,João Pessoa,
+181.221.246.0/23,BR,BR-PB,João Pessoa,
+181.221.248.0/22,BR,BR-PB,João Pessoa,
+181.221.252.0/22,BR,BR-PB,João Pessoa,
