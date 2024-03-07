@@ -18758,3 +18758,5 @@
 187.182.192.0/25,BR,BR-SP,Arujá,
 181.217.158.128/25,BR,BR-BA,Feira de Santana,
 191.183.236.180/30,BR,BR-SP,Cotia,
+# NM 13673271 - Velocimetro
+2804:14D:8F9:11::/64,BR,BR-PR,Londrina,
