@@ -9635,7 +9635,7 @@
 189.35.0.0/22,BR,BR-PR,Londrina,
 189.35.100.104/30,BR,BR-PR,Maringá,
 189.35.100.96/30,BR,BR-PR,Maringá,
-189.35.104.0/22,BR,BR-SP,Bauru,
+189.35.104.0/21,BR,BR-SP,Botucatu,
 189.35.108.0/22,BR,BR-SP,Bauru,
 189.35.112.0/21,BR,BR-SP,Piracicaba,
 189.35.12.0/23,BR,BR-SC,Balneário Camboriú,
