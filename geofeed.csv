@@ -663,6 +663,7 @@
 177.181.24.0/21,BR,BR-SP,Santo André,
 177.181.32.0/25,BR,BR-PR,Curitiba,
 177.181.32.128/25,BR,BR-PR,Curitiba,
+177.181.33.128/25,BR,BR-PR,Curitiba,
 177.182.0.0/21,BR,BR-MG,Belo Horizonte,
 177.182.10.0/24,BR,BR-MG,Belo Horizonte,
 177.182.11.0/24,BR,BR-MG,Belo Horizonte,
@@ -2125,7 +2126,7 @@
 179.136.143.0/24,BR,BR-MG,Pará de Minas,
 179.136.15.0/24,BR,BR-BA,Jequié,
 179.136.152.0/24,BR,BR-PE,Recife,
-179.136.168.0/23,BR,BR-PB,Campina Grande,58101
+179.136.168.0/23,BR,BR-PB,Campina Grande,58100
 179.136.170.0/23,BR,BR-PB,Campina Grande,58100
 179.136.172.0/23,BR,BR-PB,Campina Grande,
 179.136.174.0/23,BR,BR-PB,Campina Grande,
@@ -9806,7 +9807,7 @@
 189.4.141.0/24,BR,BR-SP,Caraguatatuba,
 189.4.142.0/23,BR,BR-SP,Caraguatatuba,
 189.4.144.0/22,BR,BR-SP,Santos,
-189.4.149.0/24,BR,BR-SP,Caraguatatuba,
+189.4.149.0/24,BR,BR-SP,Ubatuba,
 189.4.150.0/24,BR,BR-SP,Caraguatatuba,
 189.4.152.0/22,BR,BR-SP,Santos,
 189.4.156.0/22,BR,BR-SP,Santos,
