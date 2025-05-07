@@ -74,11 +74,14 @@
 177.100.192.0/22,BR,BR-SP,Bauru,
 177.100.2.0/24,BR,BR-MG,Pouso Alegre,
 177.100.20.0/23,BR,BR-RO,Porto Velho,
+177.100.22.0/23,BR,BR-RO,Porto Velho,
+177.100.25.0/24,BR,BR-CE,Sobral,
+177.100.26.0/24,BR,BR-CE,Sobral,
+177.100.27.0/24,BR,BR-CE,Sobral,
 177.100.200.0/22,BR,BR-SP,Bauru,
 177.100.204.0/22,BR,BR-SP,Bauru,
 177.100.208.0/21,BR,BR-SP,Bauru,
 177.100.216.0/21,BR,BR-SP,Bauru,
-177.100.22.0/23,BR,BR-RO,Porto Velho,
 177.100.224.0/22,BR,BR-SP,Valinhos,
 177.100.228.0/22,BR,BR-SP,Valinhos,
 177.100.232.0/23,BR,BR-SP,Vinhedo,
@@ -92,7 +95,6 @@
 177.100.242.0/23,BR,BR-SE,Aracaju,
 177.100.244.0/23,BR,BR-SE,Aracaju,
 177.100.246.0/23,BR,BR-SE,Aracaju,
-177.100.26.0/24,BR,BR-CE,Sobral,
 177.100.3.0/24,BR,BR-MG,Poços de Caldas,
 177.100.30.0/24,BR,BR-CE,Fortaleza,
 177.100.31.0/24,BR,BR-CE,Sobral,
@@ -200,7 +202,7 @@
 177.127.200.0/21,BR,BR-SP,Santa Cruz do Rio Pardo,
 177.127.208.0/22,BR,BR-SP,Araraquara,
 177.127.21.0/24,BR,BR-MG,Pouso Alegre,
-177.127.212.0/22,BR,BR-SP,Américo Brasiliense,
+177.127.212.0/22,BR,BR-SP,Américo Brasiliense,14820-000
 177.127.216.0/22,BR,BR-SP,Promissão,
 177.127.22.0/24,BR,BR-MG,Três Corações,
 177.127.220.0/23,BR,BR-SP,Lins,
@@ -2126,10 +2128,10 @@
 179.136.143.0/24,BR,BR-MG,Pará de Minas,
 179.136.15.0/24,BR,BR-BA,Jequié,
 179.136.152.0/24,BR,BR-PE,Recife,
-179.136.168.0/23,BR,BR-PB,Campina Grande,58100
-179.136.170.0/23,BR,BR-PB,Campina Grande,58100
-179.136.172.0/23,BR,BR-PB,Campina Grande,
-179.136.174.0/23,BR,BR-PB,Campina Grande,
+179.136.168.0/23,BR,BR-PB,Campina Grande,58100-000
+179.136.170.0/23,BR,BR-PB,Campina Grande,58100-000
+179.136.172.0/23,BR,BR-PB,Campina Grande,58100-000
+179.136.174.0/23,BR,BR-PB,Campina Grande,58100-000
 179.136.176.0/23,BR,BR-MG,Viçosa,
 179.136.176.0/24,BR,BR-MG,Araxá,
 179.136.177.0/24,BR,BR-MG,Uberlândia,
@@ -2291,7 +2293,7 @@
 179.137.80.0/23,BR,BR-AC,Rio Branco,
 179.137.82.0/23,BR,BR-AC,Rio Branco,
 179.137.84.0/23,BR,BR-RO,Ji-Paraná,
-179.137.86.0/23,BR,BR-RO,Ji Parana,
+179.137.86.0/23,BR,BR-RO,Ji Parana,78960-000
 179.137.88.0/23,BR,BR-RO,Ariquemes,
 179.137.9.0/24,BR,BR-MS,Dourados,
 179.137.90.0/23,BR,BR-RO,Ariquemes,
@@ -2880,7 +2882,7 @@
 179.157.178.0/24,BR,BR-RJ,Nova Iguaçu,
 179.157.179.0/24,BR,BR-RJ,Nova Iguaçu,
 179.157.18.0/23,BR,BR-RS,Erechim,
-179.157.180.0/24,BR,BR-RJ,Duque de Caxias,
+179.157.180.0/24,BR,BR-RJ,Nilópolis,
 179.157.181.0/24,BR,BR-RJ,Duque de Caxias,
 179.157.182.0/24,BR,BR-RJ,Mesquita,
 179.157.183.0/24,BR,BR-RJ,Nilópolis,
@@ -3528,7 +3530,7 @@
 179.214.208.0/21,BR,BR-MS,Campo Grande,
 179.214.216.0/21,BR,BR-MS,Campo Grande,
 179.214.224.0/23,BR,BR-MG,Uberlândia,
-179.214.226.0/24,BR,BR-MG,Araguari,
+179.214.226.0/24,BR,BR-MG,Uberlândia,
 179.214.227.0/24,BR,BR-MG,Araguari,
 179.214.228.0/24,BR,BR-MG,Araguari,
 179.214.229.0/24,BR,BR-MG,Araguari,
@@ -5619,13 +5621,13 @@
 181.223.152.0/22,BR,BR-RN,Natal,
 181.223.156.0/22,BR,BR-RN,Natal,
 181.223.16.0/22,BR,BR-SC,Blumenau,
-181.223.160.0/22,BR,BR-PB,Campina Grande,
-181.223.164.0/22,BR,BR-PB,Campina Grande,
-181.223.168.0/23,BR,BR-PB,Campina Grande,
-181.223.170.0/24,BR,BR-PB,Campina Grande,
-181.223.171.0/30,BR,BR-PB,Campina Grande,
-181.223.171.128/26,BR,BR-PB,Campina Grande,
-181.223.172.0/22,BR,BR-PB,Campina Grande,
+181.223.160.0/22,BR,BR-PB,Campina Grande,58100-000
+181.223.164.0/22,BR,BR-PB,Campina Grande,58100-000
+181.223.168.0/23,BR,BR-PB,Campina Grande,58100-000
+181.223.170.0/24,BR,BR-PB,Campina Grande,58100-000
+181.223.171.0/30,BR,BR-PB,Campina Grande,58100-000
+181.223.171.128/26,BR,BR-PB,Campina Grande,58100-000
+181.223.172.0/22,BR,BR-PB,Campina Grande,58100-000
 181.223.180.0/23,BR,BR-PR,Cascavel,
 181.223.182.0/23,BR,BR-PR,Cascavel,
 181.223.184.0/22,BR,BR-PR,Cascavel,
@@ -6310,6 +6312,7 @@
 186.222.202.0/23,BR,BR-SP,Votuporanga,
 186.222.204.0/22,BR,BR-SP,São José do Rio Preto,
 186.222.210.0/23,BR,BR-SP,Barretos,
+186.222.214.0/23,BR,BR-SP,Barretos,
 186.222.216.0/21,BR,BR-SP,São José do Rio Preto,
 186.222.224.0/22,BR,BR-SP,Taubaté,
 186.222.228.0/22,BR,BR-SP,Taubaté,
@@ -6371,7 +6374,7 @@
 186.223.158.0/24,BR,BR-PE,Recife,
 186.223.16.0/21,BR,BR-SP,Santa Bárbara d'Oeste,
 186.223.161.0/24,BR,BR-RJ,Niterói,
-186.223.163.0/24,BR,BR-RJ,Niterói,
+186.223.163.0/24,BR,BR-RJ,São Gonçalo,
 186.223.166.0/24,BR,BR-RJ,Niterói,
 186.223.167.0/24,BR,BR-RJ,Niterói,
 186.223.168.0/24,BR,BR-RJ,Niterói,
@@ -7299,6 +7302,7 @@
 187.182.76.0/22,BR,BR-SP,Guarulhos,
 187.182.80.0/23,BR,BR-SP,Guarulhos,
 187.182.82.0/23,BR,BR-SP,Guarulhos,
+187.182.85.0/24,BR,BR-SP,Arujá,
 187.182.88.0/22,BR,BR-SP,Guarulhos,
 187.182.96.0/22,BR,BR-SP,Guarulhos,
 187.183.0.0/23,BR,BR-RS,Canoas,
@@ -7324,17 +7328,17 @@
 187.183.18.0/23,BR,BR-MG,Contagem,
 187.183.184.0/23,BR,BR-MT,Cuiabá,
 187.183.190.0/23,BR,BR-MT,Cuiabá,
-187.183.192.0/24,BR,BR-PB,Campina Grande,
-187.183.193.0/24,BR,BR-PB,Campina Grande,
-187.183.196.0/23,BR,BR-PB,Campina Grande,
-187.183.198.0/23,BR,BR-PB,Campina Grande,
+187.183.192.0/24,BR,BR-PB,Campina Grande,58100-000
+187.183.193.0/24,BR,BR-PB,Campina Grande,58100-000
+187.183.196.0/23,BR,BR-PB,Campina Grande,58100-000
+187.183.198.0/23,BR,BR-PB,Campina Grande,58100-000
 187.183.2.0/23,BR,BR-RS,Canoas,
 187.183.20.0/23,BR,BR-MG,Contagem,
-187.183.200.0/22,BR,BR-PB,Campina Grande,
-187.183.204.0/23,BR,BR-PB,Campina Grande,
-187.183.206.0/24,BR,BR-PB,Campina Grande,
-187.183.207.0/25,BR,BR-PB,Campina Grande,
-187.183.207.128/25,BR,BR-PB,Campina Grande,
+187.183.200.0/22,BR,BR-PB,Campina Grande,58100-000
+187.183.204.0/23,BR,BR-PB,Campina Grande,58100-000
+187.183.206.0/24,BR,BR-PB,Campina Grande,58100-000
+187.183.207.0/24,BR,BR-PB,Campina Grande,58100-000
+187.183.207.128/25,BR,BR-PB,Campina Grande,58100-000
 187.183.208.0/24,BR,BR-RS,São Leopoldo,
 187.183.209.0/25,BR,BR-RS,Novo Hamburgo,
 187.183.209.128/25,BR,BR-RS,Novo Hamburgo,
@@ -14127,16 +14131,22 @@
 2804:14c:46::/64,BR,BR-SP,São Paulo,
 2804:14c:46a::/64,BR,BR-SP,Paulínia,
 2804:14c:46b::/64,BR,BR-SP,Paulínia,
+2804:14c:46d::/64,BR,BR-SP,Paulínia,
+2804:14C:46E::/64,BR,BR-SP,Campinas,
+2804:14c:46f::/64,BR,BR-SP,Paulínia,
 2804:14c:461::/64,BR,BR-SP,Campinas,
 2804:14c:462::/64,BR,BR-SP,Campinas,
 2804:14c:463::/64,BR,BR-SP,Campinas,
 2804:14c:464::/64,BR,BR-SP,Campinas,
 2804:14C:465::/64,BR,BR-SP,Hortolândia,
 2804:14c:466::/64,BR,BR-SP,Hortolândia,
+2804:14C:467::/64,BR,BR-SP,Campinas,
 2804:14c:468::/64,BR,BR-SP,Paulínia,
+2804:14C:469::/64,BR,BR-SP,Campinas,
 2804:14c:4685:1020::/64,BR,BR-PR,Ponta Grossa,
 2804:14c:47::/64,BR,BR-SP,São Paulo,
 2804:14C:470:1000::/64,BR,BR-SP,Jaguariúna,
+2804:14C:472::/64,BR,BR-SP,Campinas,
 2804:14c:4700:a3::/126,BR,BR-PR,Arapongas,
 2804:14c:4700:a4::/126,BR,BR-PR,Arapongas,
 2804:14c:474:1000::/64,BR,BR-SP,Jaguariúna,
@@ -14759,7 +14769,7 @@
 2804:14c:7564:1000::/64,BR,BR-MS,Campo Grande,
 2804:14c:7565:1000::/64,BR,BR-MS,Campo Grande,
 2804:14c:7566:1000::/64,BR,BR-MS,Campo Grande,
-2804:14c:7567:1000::/64,BR,BR-PB,Campina Grande,
+2804:14c:7567:1000::/64,BR,BR-PB,Campina Grande,58100-000
 2804:14c:7568:1000::/64,BR,BR-MS,Campo Grande,
 2804:14c:7569:1000::/64,BR,BR-MS,Campo Grande,
 2804:14c:756a:1000::/64,BR,BR-MS,Campo Grande,
@@ -15121,7 +15131,7 @@
 2804:14c:9a::/64,BR,BR-SP,São Paulo,
 2804:14c:9b::/64,BR,BR-SP,São Paulo,
 2804:14c:9b00:a4::/126,BR,BR-PB,Campina Grande,
-2804:14c:9b83::/64,BR,BR-PB,Campina Grande,
+2804:14c:9b83::/64,BR,BR-PB,Campina Grande,58100-000
 2804:14c:9c::/64,BR,BR-SP,São Paulo,
 2804:14c:9d00:a3::/126,BR,BR-PE,Caruaru,
 2804:14c:9d81::/64,BR,BR-PE,Caruaru,
@@ -15469,6 +15479,7 @@
 2804:14c:d4b0:1000::/64,BR,BR-MG,Ipatinga,
 2804:14c:d4b1:1000::/64,BR,BR-MG,Ipatinga,
 2804:14C:D4B2:1000::/64,BR,BR-MG,Ipatinga,
+2804:14C:D482:C::/64,BR,BR-MG,Ipatinga,
 2804:14c:d5::/64,BR,BR-SP,São Paulo,
 2804:14c:d6::/64,BR,BR-SP,São Paulo,
 2804:14c:d8::/64,BR,BR-SP,São Paulo,
@@ -15666,6 +15677,7 @@
 2804:14c:fc92:1000::/64,BR,BR-MG,Lavras,
 2804:14c:fc93:1000::/64,BR,BR-MG,Lavras,
 2804:14c:fc94:1000::/64,BR,BR-MG,Juiz de Fora,
+2804:14C:FC95:1000::/64,BR,BR-MG,Juiz de Fora,
 2804:14C:FC96:1000::/64,BR,BR-MG,Juiz de Fora,
 2804:14c:fc97:1000::/64,BR,BR-MG,Cataguases,
 2804:14c:fc98:1000::/64,BR,BR-MG,Juiz de Fora,
@@ -17426,6 +17438,8 @@
 2804:14d:daa3:1000::/64,BR,BR-MS,Dourados,
 2804:14d:daa5:1000::/64,BR,BR-MS,Dourados,
 2804:14d:daa6:1000::/64,BR,BR-MS,Dourados,
+2804:14d:dab0:1000::/64,BR,BR-MS,Ponta Porã,
+2804:14d:dab1:1000::/64,BR,BR-MS,Ponta Porã,
 2804:14d:dac4:1000::/64,BR,BR-MS,Dourados,
 2804:14d:dac5:1000::/64,BR,BR-MS,Dourados,
 2804:14d:dad0:1000::/64,BR,BR-MS,Naviraí,
