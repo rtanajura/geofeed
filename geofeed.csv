@@ -202,7 +202,7 @@
 177.127.200.0/21,BR,BR-SP,Santa Cruz do Rio Pardo,
 177.127.208.0/22,BR,BR-SP,Araraquara,
 177.127.21.0/24,BR,BR-MG,Pouso Alegre,
-177.127.212.0/22,BR,BR-SP,Américo Brasiliense,14820-000
+177.127.212.0/22,BR,BR-SP,Américo Brasiliense,
 177.127.216.0/22,BR,BR-SP,Promissão,
 177.127.22.0/24,BR,BR-MG,Três Corações,
 177.127.220.0/23,BR,BR-SP,Lins,
@@ -2294,7 +2294,7 @@
 179.137.80.0/23,BR,BR-AC,Rio Branco,
 179.137.82.0/23,BR,BR-AC,Rio Branco,
 179.137.84.0/23,BR,BR-RO,Ji-Paraná,
-179.137.86.0/23,BR,BR-RO,Ji-Parana,78960-000
+179.137.86.0/23,BR,BR-RO,Ji-Parana,
 179.137.88.0/23,BR,BR-RO,Ariquemes,
 179.137.9.0/24,BR,BR-MS,Dourados,
 179.137.90.0/23,BR,BR-RO,Ariquemes,
@@ -11727,6 +11727,7 @@
 191.186.88.0/21,BR,BR-SP,Piracicaba,
 191.186.96.0/19,BR,BR-SP,São Paulo,
 191.187.1.0/26,BR,BR-MG,Betim,
+191.187.1.64/26,BR,BR-MG,Betim,
 191.187.10.0/24,BR,BR-MG,Betim,
 191.187.104.0/21,BR,BR-SP,Marília,
 191.187.11.0/24,BR,BR-MG,Betim,
