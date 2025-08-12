@@ -7218,6 +7218,7 @@
 187.181.240.0/22,BR,BR-RS,Farroupilha,
 187.181.244.0/22,BR,BR-RS,Farroupilha,
 187.181.248.0/24,BR,BR-RS,Passo Fundo,
+187.181.252.0/22,BR,BR-RS,Capão da Canoa,
 187.181.253.0/25,BR,BR-RS,Gramado,
 187.181.253.128/25,BR,BR-RS,Caxias do Sul,
 187.181.254.0/24,BR,BR-RS,Caxias do Sul,
@@ -17840,4 +17841,5 @@
 2804:14d:3200:a1::/126,BR,BR-SP,Osasco,
 2804:14c:5b00:78::/126,BR,BR-MG,Belo Horizonte,
 2804:14c:0:bb3::/126,BR,BR-SP,São Paulo,
+
 
