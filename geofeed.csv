@@ -2159,6 +2159,7 @@
 179.136.189.0/24,BR,BR-MG,Uberlândia,
 179.136.190.0/24,BR,BR-MG,Uberlândia,
 179.136.191.0/24,BR,BR-MG,Araxá,
+179.136.195.0/24,BR,BR-SP,Itanhaém,
 179.136.197.0/24,BR,BR-SP,Caraguatatuba,
 179.136.198.0/23,BR,BR-SP,Caraguatatuba,
 179.136.202.0/24,BR,BR-SP,Peruíbe,
@@ -6386,7 +6387,7 @@
 186.223.158.0/24,BR,BR-PE,Recife,
 186.223.16.0/21,BR,BR-SP,Santa Bárbara d'Oeste,
 186.223.161.0/24,BR,BR-RJ,Niterói,
-186.223.163.0/24,BR,BR-RJ,Niterói,
+186.223.163.0/24,BR,BR-RJ,São Gonçalo,
 186.223.166.0/24,BR,BR-RJ,Niterói,
 186.223.167.0/24,BR,BR-RJ,Niterói,
 186.223.168.0/24,BR,BR-RJ,Niterói,
@@ -17844,6 +17845,7 @@
 2804:14d:3200:a1::/126,BR,BR-SP,Osasco,
 2804:14c:5b00:78::/126,BR,BR-MG,Belo Horizonte,
 2804:14c:0:bb3::/126,BR,BR-SP,São Paulo,
+
 
 
 
