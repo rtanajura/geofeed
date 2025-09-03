@@ -11571,7 +11571,7 @@
 191.184.32.0/22,BR,BR-AL,Maceió,
 191.184.36.0/22,BR,BR-AL,Maceió,
 191.184.4.0/23,BR,BR-ES,Cariacica,
-191.184.40.0/22,BR,BR-AL,Maceió,
+191.184.40.0/22,BR,BR-RN,Natal,
 191.184.44.0/22,BR,BR-AL,Maceió,
 191.184.49.0/24,BR,BR-PI,Teresina,
 191.184.51.0/24,BR,BR-PI,Teresina,
@@ -17845,6 +17845,7 @@
 2804:14d:3200:a1::/126,BR,BR-SP,Osasco,
 2804:14c:5b00:78::/126,BR,BR-MG,Belo Horizonte,
 2804:14c:0:bb3::/126,BR,BR-SP,São Paulo,
+
 
 
 
