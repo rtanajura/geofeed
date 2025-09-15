@@ -580,7 +580,7 @@
 177.180.120.0/24,BR,BR-SP,Bragança Paulista,
 177.180.121.0/24,BR,BR-SP,Bragança Paulista,
 177.180.122.0/24,BR,BR-SP,Bragança Paulista,
-177.180.123.0/24,BR,BR-SP,Bragança Paulista,
+177.180.123.0/24,BR,BR-SP,Piracaia,
 177.180.124.0/23,BR,BR-SP,Bragança Paulista,
 177.180.126.0/23,BR,BR-SP,Bragança Paulista,
 177.180.128.0/23,BR,BR-BA,Salvador,
@@ -2125,6 +2125,7 @@
 179.136.105.0/24,BR,BR-MS,Três Lagoas,
 179.136.106.0/24,BR,BR-MS,Três Lagoas,
 179.136.107.0/24,BR,BR-MS,Três Lagoas,
+179.136.112.0/23,BR,BR-RJ,Teresópolis,
 179.136.11.0/24,BR,BR-BA,Barreiras,
 179.136.12.0/24,BR,BR-BA,Barreiras,
 179.136.13.0/24,BR,BR-BA,Barreiras,
@@ -5107,6 +5108,7 @@
 181.218.185.0/24,BR,BR-PI,Parnaíba,
 181.218.186.0/23,BR,BR-PI,Parnaíba,
 181.218.188.0/23,BR,BR-PI,Parnaíba,
+181.218.189.0/24,BR,BR-RN,Natal,
 181.218.190.0/23,BR,BR-PI,Parnaíba,
 181.218.192.0/23,BR,BR-SC,Joinville,
 181.218.194.0/23,BR,BR-SC,Joinville,
@@ -7533,6 +7535,7 @@
 187.20.135.0/24,BR,BR-MG,Belo Horizonte,
 187.20.144.0/21,BR,BR-MG,Belo Horizonte,
 187.20.152.0/22,BR,BR-MG,Belo Horizonte,
+187.20.192.0/23,BR,BR-MG,Belo Horizonte,
 187.20.16.0/22,BR,BR-MG,Belo Horizonte,
 187.20.20.0/25,BR,BR-MG,Belo Horizonte,
 187.20.20.128/25,BR,BR-MG,Belo Horizonte,
@@ -17845,6 +17848,7 @@
 2804:14d:3200:a1::/126,BR,BR-SP,Osasco,
 2804:14c:5b00:78::/126,BR,BR-MG,Belo Horizonte,
 2804:14c:0:bb3::/126,BR,BR-SP,São Paulo,
+
 
 
 
