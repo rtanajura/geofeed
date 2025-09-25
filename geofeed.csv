@@ -8111,7 +8111,7 @@
 187.36.35.192/26,BR,BR-RS,Canela,
 187.36.36.0/22,BR,BR-RS,Gramado,
 187.36.4.0/23,BR,BR-RS,Santa Maria,
-187.36.40.0/22,BR,BR-RS,Gramado,
+187.36.40.0/22,BR,BR-RS,Marau,
 187.36.44.0/23,BR,BR-RS,Gramado,
 187.36.46.0/24,BR,BR-RS,Gramado,
 187.36.47.0/25,BR,BR-RS,Gramado,
@@ -8122,8 +8122,8 @@
 187.36.52.0/22,BR,BR-RS,Canela,
 187.36.56.0/22,BR,BR-RS,Canela,
 187.36.6.0/23,BR,BR-RS,Santa Maria,
-187.36.60.0/23,BR,BR-RS,Canela,
-187.36.62.0/24,BR,BR-RS,Canela,
+187.36.60.0/23,BR,BR-RS,Marau,
+187.36.62.0/24,BR,BR-RS,Marau,
 187.36.63.0/24,BR,BR-RS,Nova Petrópolis,
 187.36.64.0/24,BR,BR-PE,Recife,
 187.36.65.0/24,BR,BR-PE,Recife,
@@ -17848,6 +17848,7 @@
 2804:14d:3200:a1::/126,BR,BR-SP,Osasco,
 2804:14c:5b00:78::/126,BR,BR-MG,Belo Horizonte,
 2804:14c:0:bb3::/126,BR,BR-SP,São Paulo,
+
 
 
 
