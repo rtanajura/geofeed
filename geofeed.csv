@@ -5113,7 +5113,7 @@
 181.218.186.0/23,BR,BR-PI,Parnaíba,
 181.218.188.0/23,BR,BR-PI,Parnaíba,
 181.218.189.0/24,BR,BR-RN,Natal,
-181.218.190.0/23,BR,BR-PI,Parnaíba,
+181.218.190.0/23,BR,BR-RN,Natal,
 181.218.192.0/23,BR,BR-SC,Joinville,
 181.218.194.0/23,BR,BR-SC,Joinville,
 181.218.196.0/23,BR,BR-SC,Joinville,
@@ -17897,6 +17897,7 @@
 2804:14d:3200:a1::/126,BR,BR-SP,Osasco,
 2804:14c:5b00:78::/126,BR,BR-MG,Belo Horizonte,
 2804:14c:0:bb3::/126,BR,BR-SP,São Paulo,
+
 
 
 
