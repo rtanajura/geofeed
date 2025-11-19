@@ -2905,7 +2905,8 @@
 179.157.184.0/24,BR,BR-RJ,Belford Roxo,
 179.157.186.0/24,BR,BR-RJ,Mesquita,
 179.157.187.0/24,BR,BR-RJ,São João de Meriti,
-179.157.188.0/25,BR,BR-RJ,Duque de Caxias,
+179.157.188.0/25,BR,BR-RJ,Belford Roxo,
+179.157.188.128/25,BR,BR-RJ,Duque de Caxias,
 179.157.189.0/24,BR,BR-RJ,Duque de Caxias,
 179.157.191.0/24,BR,BR-RJ,Nova Iguaçu,
 179.157.192.0/24,BR,BR-SP,Praia Grande,
@@ -11558,6 +11559,7 @@
 191.184.208.0/21,BR,BR-MS,Campo Grande,
 191.184.208.0/23,BR,BR-MS,Ponta Porã,
 191.184.210.0/23,BR,BR-MS,Ponta Porã,
+191.184.212.0/24,BR,BR-MS,Dourados,
 191.184.213.0/24,BR,BR-MS,Dourados,
 191.184.216.0/23,BR,BR-MS,Naviraí,
 191.184.216.0/22,BR,BR-MS,Campo Grande,
@@ -13051,6 +13053,7 @@
 201.62.116.0/23,BR,BR-SP,Taubaté,
 201.62.119.0/24,BR,BR-SP,Tremembé,
 201.62.121.128/25,BR,BR-SP,Hortolândia,
+201.62.123.192/26,BR,BR-SP,Mogi Mirim,
 201.62.123.0/27,BR,BR-SP,Mogi Mirim,
 201.62.124.0/27,BR,BR-SP,Mogi Mirim,
 201.62.124.192/26,BR,BR-SP,Araras,
@@ -13242,7 +13245,7 @@
 201.80.104.0/22,BR,BR-MG,Belo Horizonte,
 201.80.108.0/22,BR,BR-MG,Belo Horizonte,
 201.80.112.0/21,BR,BR-MG,Belo Horizonte,
-201.80.120.0/22,BR,BR-MG,Nova Lima,
+201.80.120.0/22,BR,BR-MG,Belo Horizonte,
 201.80.124.0/22,BR,BR-MG,Belo Horizonte,
 201.80.132.0/22,BR,BR-MG,Nova Lima,
 201.80.136.0/22,BR,BR-MG,Belo Horizonte,
@@ -17923,6 +17926,7 @@
 2804:14d:3200:a1::/126,BR,BR-SP,Osasco,
 2804:14c:5b00:78::/126,BR,BR-MG,Belo Horizonte,
 2804:14c:0:bb3::/126,BR,BR-SP,São Paulo,
+
 
 
 
