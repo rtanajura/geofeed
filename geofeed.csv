@@ -4861,6 +4861,7 @@
 181.216.196.0/24,BR,BR-SP,Tatuí,
 181.216.197.0/24,BR,BR-SP,Tatuí,
 181.216.198.0/24,BR,BR-SP,Tatuí,
+181.216.200.128/25,BR,BR-RS,São Gabriel,
 181.216.201.0/24,BR,BR-RS,São Gabriel,
 181.216.202.0/23,BR,BR-RS,São Gabriel,
 181.216.204.0/23,BR,BR-RS,São Gabriel,
@@ -17931,6 +17932,7 @@
 2804:14d:3200:a1::/126,BR,BR-SP,Osasco,
 2804:14c:5b00:78::/126,BR,BR-MG,Belo Horizonte,
 2804:14c:0:bb3::/126,BR,BR-SP,São Paulo,
+
 
 
 
