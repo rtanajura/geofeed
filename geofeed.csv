@@ -7656,7 +7656,7 @@
 187.21.24.0/24,BR,BR-SE,Aracaju,
 187.21.240.0/24,BR,BR-SP,Caraguatatuba,
 187.21.241.0/24,BR,BR-SP,Santos,
-187.21.244.0/22,BR,BR-SP,Santos,
+187.21.244.0/22,BR,BR-SP,Caraguatatuba,
 187.21.248.0/22,BR,BR-SP,Santos,
 187.21.25.0/24,BR,BR-SE,Aracaju,
 187.21.252.0/22,BR,BR-SP,Santos,
@@ -17932,6 +17932,7 @@
 2804:14d:3200:a1::/126,BR,BR-SP,Osasco,
 2804:14c:5b00:78::/126,BR,BR-MG,Belo Horizonte,
 2804:14c:0:bb3::/126,BR,BR-SP,São Paulo,
+
 
 
 
