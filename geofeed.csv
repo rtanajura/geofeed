@@ -790,6 +790,8 @@
 177.183.192.0/24,BR,BR-RN,Natal,
 177.183.194.0/23,BR,BR-PE,Recife,
 177.183.196.0/22,BR,BR-PE,Recife,
+177.183.197.0/24,BR,BR-PE,Recife,
+177.183.198.0/24,BR,BR-PE,Recife,
 177.183.20.0/23,BR,BR-SP,São José dos Campos,
 177.183.200.0/23,BR,BR-PE,Recife,
 177.183.202.0/23,BR,BR-PE,Recife,
@@ -17932,6 +17934,7 @@
 2804:14d:3200:a1::/126,BR,BR-SP,Osasco,
 2804:14c:5b00:78::/126,BR,BR-MG,Belo Horizonte,
 2804:14c:0:bb3::/126,BR,BR-SP,São Paulo,
+
 
 
 
