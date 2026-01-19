@@ -5155,6 +5155,7 @@
 181.218.230.0/24,BR,BR-SP,Guarujá,
 181.218.234.0/23,BR,BR-RS,Arroio do Meio,
 181.218.236.0/23,BR,BR-RS,Arroio do Meio,
+181.218.238.0/23,BR,BR-RS,Arroio do Meio,
 181.218.24.0/24,BR,BR-PE,Recife,
 181.218.248.0/23,BR,BR-RS,Encantado,
 181.218.25.0/24,BR,BR-PE,Recife,
@@ -17934,6 +17935,7 @@
 2804:14d:3200:a1::/126,BR,BR-SP,Osasco,
 2804:14c:5b00:78::/126,BR,BR-MG,Belo Horizonte,
 2804:14c:0:bb3::/126,BR,BR-SP,São Paulo,
+
 
 
 
