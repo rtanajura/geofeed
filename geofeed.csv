@@ -641,6 +641,7 @@
 177.181.33.128/25,BR,BR-PR,Curitiba,
 177.181.96.0/24,BR,BR-AC,Rio Branco,
 177.181.97.0/24,BR,BR-AC,Rio Branco,
+177.181.98.0/23,BR,BR-AC,Rio Branco,
 177.181.160.0/24,BR,BR-PE,Recife,
 177.181.161.0/24,BR,BR-PE,Recife,
 177.181.162.0/25,BR,BR-PE,Recife,
@@ -4083,6 +4084,7 @@
 179.221.112.0/21,BR,BR-MS,Campo Grande,
 179.221.120.0/21,BR,BR-MS,Campo Grande,
 179.221.120.0/24,BR,BR-MS,Dourados,
+179.221.121.0/24,BR,BR-MS,Dourados,
 179.221.128.0/24,BR,BR-MG,Poços de Caldas,
 179.221.129.0/24,BR,BR-MG,Pouso Alegre,
 179.221.130.0/24,BR,BR-MG,Pouso Alegre,
@@ -7221,7 +7223,10 @@
 187.181.16.0/23,BR,BR-AC,Rio Branco,
 187.181.160.0/22,BR,BR-RS,Canoas,
 187.181.164.0/23,BR,BR-RS,Santa Maria,
+187.181.164.0/24,BR,BR-RS,Canoas,
 187.181.166.0/23,BR,BR-RS,Santa Maria,
+187.181.166.0/24,BR,BR-RS,Canoas,
+187.181.165.0/24,BR,BR-RS,Canoas,
 187.181.168.0/22,BR,BR-RS,Santa Maria,
 187.181.172.0/22,BR,BR-RS,Santa Maria,
 187.181.176.0/22,BR,BR-SC,Balneário Camboriú,
@@ -17305,6 +17310,8 @@
 2804:14d:a600:a1::/126,BR,BR-RS,Uruguaiana,
 2804:14d:a630::/64,BR,BR-RS,Alegrete,
 2804:14d:a631::/64,BR,BR-RS,Alegrete,
+2804:14d:a632::/48,BR,BR-RS,Uruguaiana,
+2804:14d:a633::/48,BR,BR-RS,Uruguaiana,
 2804:14d:a63f::/126,BR,BR-RS,Uruguaiana,
 2804:14d:a680::/64,BR,BR-RS,Uruguaiana,
 2804:14d:a681::/64,BR,BR-RS,Uruguaiana,
@@ -17971,6 +17978,7 @@
 2804:14d:3200:a1::/126,BR,BR-SP,Osasco,
 2804:14c:5b00:78::/126,BR,BR-MG,Belo Horizonte,
 2804:14c:0:bb3::/126,BR,BR-SP,São Paulo,
+
 
 
 
