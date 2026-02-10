@@ -8390,7 +8390,7 @@
 187.39.74.0/23,BR,BR-SC,Itajaí,
 187.39.76.0/22,BR,BR-SC,Itapema,
 187.39.8.0/22,BR,BR-SP,Agudos,
-187.39.84.0/24,BR,BR-SP,Mirassol,
+187.39.84.0/24,BR,BR-SP,São José do Rio Preto,
 187.39.85.0/24,BR,BR-SP,São José do Rio Preto,
 187.39.86.0/24,BR,BR-SP,São José do Rio Preto,
 187.39.88.0/22,BR,BR-RS,Caxias do Sul,
@@ -17971,6 +17971,7 @@
 2804:14d:3200:a1::/126,BR,BR-SP,Osasco,
 2804:14c:5b00:78::/126,BR,BR-MG,Belo Horizonte,
 2804:14c:0:bb3::/126,BR,BR-SP,São Paulo,
+
 
 
 
