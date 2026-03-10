@@ -6339,7 +6339,7 @@
 186.222.171.128/25,BR,BR-CE,Fortaleza,
 186.222.172.0/24,BR,BR-RN,Natal,
 186.222.173.0/24,BR,BR-CE,Fortaleza,
-186.222.174.0/24,BR,BR-CE,Fortaleza,
+186.222.174.0/23,BR,BR-RN,Natal,
 186.222.175.0/24,BR,BR-CE,Fortaleza,
 186.222.176.0/24,BR,BR-BA,Salvador,
 186.222.177.0/24,BR,BR-BA,Salvador,
@@ -17982,6 +17982,7 @@
 2804:14d:3200:a1::/126,BR,BR-SP,Osasco,
 2804:14c:5b00:78::/126,BR,BR-MG,Belo Horizonte,
 2804:14c:0:bb3::/126,BR,BR-SP,São Paulo,
+
 
 
 
